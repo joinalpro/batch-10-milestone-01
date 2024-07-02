@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+.blog {
+    margin: 20px;
+    line-height: 30px;
+}
+#header {
+    color: darkgoldenrod;
+}

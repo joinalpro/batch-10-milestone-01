@@ -1,0 +1,9 @@
+h1 {
+    color: blueviolet;
+    font-style: italic;
+}
+p {
+    text-align: justify;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
