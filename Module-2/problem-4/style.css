@@ -1,0 +1,19 @@
+header {
+    background-image: url('grandma.png');
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+.blog {
+    background-color: darkkhaki;
+    
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    /* margin-bottom: 100px; */
+}
+
+#second {
+    border-radius: 3px solid tomato;
+}
